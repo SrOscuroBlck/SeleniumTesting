@@ -94,3 +94,28 @@ Este proyecto implementa la automatización de flujos de **login** y **compra de
     - `LoginTest.java`
     - `PurchaseTest.java`
     - **Nota**: Asegurarse de tener **Java** y **Maven** instalados.
+
+
+## Autor
+- Trabajo realizado únicamente por **Gustavo Adolfo Camargo Pineda**, estudiante de la **Universidad San Buenaventura Cali**.
+
+## Aclaraciones
+- El proyecto fue desarrollado con fines académicos y de aprendizaje.
+- El proyecto fue desarrollado sin basarse en código previo, y se garantiza que cumple con los objetivos planteados.
+
+## Consideraciones Finales
+- El proyecto fue desarrollado siguiendo las instrucciones del taller impartido por el profesor **Jorge Luis Fonseca Baldrich**.
+- Se agradece la oportunidad de aprender y aplicar las técnicas de automatización con Selenium WebDriver.
+- Se espera que el proyecto cumpla con los objetivos y expectativas planteadas.
+- Cualquier duda o comentario, favor comunicarse con el autor.
+
+## Contacto
+- **Nombre**: Gustavo Adolfo Camargo Pineda
+- **Correo**: camargogustavoa@gmail.com
+- **GitHub**: [SrOscuroBlck](https://github.com/SrOscuroBlck)
+- **LinkedIn**: [Gustavo Camargo](https://www.linkedin.com/in/gustavoadolfocamargopineda/)
+
+## Licencia
+No se permite la reproducción total o parcial de este proyecto sin autorización.
+
+© 2024 Gustavo Camargo. Todos los derechos reservados.
