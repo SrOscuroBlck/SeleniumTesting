@@ -97,7 +97,7 @@ Este proyecto implementa la automatización de flujos de **login** y **compra de
 
 
 ## Autor
-- Trabajo realizado únicamente por **Gustavo Adolfo Camargo Pineda**, estudiante de la **Universidad San Buenaventura Cali**.
+- Trabajo realizado por DJG **Gustavo Adolfo Camargo Pineda**, **Dillan Alexander Asprilla Sánchez** y **Juan Manuel Conde Aldana**, estudiantes de la **Universidad San Buenaventura Cali**.
 
 ## Aclaraciones
 - El proyecto fue desarrollado con fines académicos y de aprendizaje.
@@ -118,4 +118,4 @@ Este proyecto implementa la automatización de flujos de **login** y **compra de
 ## Licencia
 No se permite la reproducción total o parcial de este proyecto sin autorización.
 
-© 2024 Gustavo Camargo. Todos los derechos reservados.
+© 2024 DJG.inc Todos los derechos reservados.
